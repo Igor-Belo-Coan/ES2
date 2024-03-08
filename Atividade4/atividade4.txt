@@ -1,0 +1,19 @@
+1) O que você entendeu da situação atual e problemas?
+  - Patrícia consegue manter organizadas as informações, porém, as consultas, cadastros, alterações e exclusões das reuniões não são simples e rápidas, pois Patrícia 
+deve intercalar o acesso entre as pastas e planilhas para realizar suas necessidades, o que demanda tempo... Ou seja, o desempenho dos processos não são muito bons e podem ser melhorados.
+  - Um outro problema a ser abordado é que entrega a frequente troca de pastas e planilhas durante os processos, ela pode gerar dados divergentes.
+  - Nem todas as informações necessárias estão na planilha.
+
+2) Qual sua proposta de solução?
+  - Um sistema onde seja possível ter acesso a todas as informações (meses, dias, horários, salas, reuniões) e funções (CRUD) e outras funcionalidades sejam possível serem vistas e realizadas em uma mesma janela (tela).
+  - Ex: Interface parecida com a agenda do Google.
+  
+3) Faça uma lista de requisitos funcionais.
+  - Deve ser possível acessar todas as informações necessárias em uma mesma tela.
+  - Todas as funcionalidades devem ser realizadas em uma mesma tela onde contém todas as informações.
+  - As funcionalidades deverão ser acessadas através de botões que levarão o usuário para uma janela modal dentro da mesma tela.
+  - Inforamções e dados adicionais de entidades do sistema devem ser acessada através de um botão de informações que abrirá um modal. 
+  - O sistema deverá ter o usuário comum e usuário administrador (Patrícia).
+  - O usuário comum poderá consultar as informações das reuniões e salas.
+  - O usuário comum não poderá realizar edições, cadastros e exclusões de reuniões, eles deverão solicitar ao administrador que terá a permissão necessária.
+  
